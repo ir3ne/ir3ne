@@ -2,7 +2,7 @@
 
 Senior Frontend Engineer building web products with React, TypeScript, and modern web technologies.
 
-🚀 **Currently building Bookmash**
+🚀 **Building Bookmash**
 
 > **Your bookmarks. Finally useful.**
 
