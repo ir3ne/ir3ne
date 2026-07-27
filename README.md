@@ -1,7 +1,11 @@
-### Hi there, I'm Irene 👋
+### Hi, I'm Irene 👋
 
-Here are some ideas to get you started:
+Senior Frontend Engineer building web products with React, TypeScript, and modern web technologies.
 
-- 🔭  I’m interested in all things JavaScript, CSS, and the intersection of the two.
-- 👯  I’m always looking to collaborate on interesting projects: React / Vue
-- 🤓  A couple af my articles are here on [Medium](https://medium.com/@irenetomaini1)
+🚀 **Currently building Bookmash**
+
+> **Your bookmarks. Finally useful.**
+
+A desktop bookmark manager with browser sync, Chrome & Firefox extensions, and a modern UI.
+
+https://www.bookma.sh
